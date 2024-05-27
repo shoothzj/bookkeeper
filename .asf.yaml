@@ -23,7 +23,6 @@ github:
   labels:
     - apache
     - bookkeeper
-    - big-data
     - distributed-log
     - distributed-systems
     - wal
